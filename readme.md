@@ -26,6 +26,9 @@ After installation, the following commands will be available:
 - `InvoluteGear` &mdash; Generate a gear curve with an involute gear tooth
   profile. Optionally also outputs the gear's pitch circle.
 
+- `InvoluteGearIn` &mdash; Generate a gear curve inside _"outside circle"_ with
+  an involute gear tooth profile. Optionally also outputs the gear's pitch circle.
+
 - `Rack` &mdash; Generate a rack curve for a rack and pinion system.
 
 - `BevelGearSrf` &mdash; Generate a bevel (conical) gear surface with a specific
